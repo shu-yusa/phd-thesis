@@ -1,0 +1,49 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Nuclear excitations}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Collective excitations}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Noncollective excitations}{15}{section.2.2}
+\contentsline {chapter}{\numberline {3}Coupled-channels method}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Coupled-channels equations}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Iso-centrifugal approximation}{20}{section.3.2}
+\contentsline {section}{\numberline {3.3}Sudden tunneling limit}{23}{section.3.3}
+\contentsline {section}{\numberline {3.4}Barrier distribution method}{25}{section.3.4}
+\contentsline {section}{\numberline {3.5}Constant coupling approximation}{29}{section.3.5}
+\contentsline {section}{\numberline {3.6}Coupling to collective states}{29}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Vibrational coupling}{29}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Rotational coupling}{34}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Adiabatic potential renormalization}{36}{subsection.3.6.3}
+\contentsline {section}{\numberline {3.7}Full order coupling}{39}{section.3.7}
+\contentsline {chapter}{\numberline {4}Random matrix theory}{40}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{40}{section.4.1}
+\contentsline {section}{\numberline {4.2}Gaussian orthogonal ensemble(GOE)}{41}{section.4.2}
+\contentsline {section}{\numberline {4.3}Properties of GOE}{42}{section.4.3}
+\contentsline {section}{\numberline {4.4}Fluctuation measures of GOE}{43}{section.4.4}
+\contentsline {section}{\numberline {4.5}Random matrix theory for deep inelastic collision}{45}{section.4.5}
+\contentsline {chapter}{\numberline {5}Noncollective excitations in $^{16}$O + $^{208}$Pb reaction}{48}{chapter.5}
+\contentsline {section}{\numberline {5.1}Current status of $^{16}$O + $^{208}$Pb reaction}{48}{section.5.1}
+\contentsline {section}{\numberline {5.2}Results}{50}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Single phonon calculation}{50}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Double phonon calculation}{53}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Anharmonicity of octupole phonon state in $^{208}$Pb}{54}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Q-value distribution}{56}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Mass-number dependence of the effect of noncollective excitations}{59}{subsection.5.2.5}
+\contentsline {chapter}{\numberline {6}Noncollective excitations in $^{20}$Ne + $^{90,92}$Zr reaction}{62}{chapter.6}
+\contentsline {section}{\numberline {6.1}Quasi-elastic scattering for $^{20}$Ne + $^{90,92}$Zr systems}{62}{section.6.1}
+\contentsline {section}{\numberline {6.2}Random matrix model}{63}{section.6.2}
+\contentsline {section}{\numberline {6.3}Level density and strength distribution}{65}{section.6.3}
+\contentsline {section}{\numberline {6.4}Test of random matrix model with $^{16}$O + $^{208}$Pb reaction}{67}{section.6.4}
+\contentsline {section}{\numberline {6.5}Application to $^{20}$Ne + $^{90,92}$Zr systems}{67}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Parameters}{67}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Results}{70}{subsection.6.5.2}
+\contentsline {subsubsection}{Quasi-elastic scattering cross sections and barrier distribution}{70}{section*.2}
+\contentsline {subsubsection}{Convergence of calculated results}{72}{section*.3}
+\contentsline {subsubsection}{Q-value distribution}{74}{section*.4}
+\contentsline {subsubsection}{Reactions with different projectiles}{76}{section*.5}
+\contentsline {section}{\numberline {6.6}Prediction for $^{24}$Mg + $^{90,92}$Zr reaction}{79}{section.6.6}
+\contentsline {chapter}{\numberline {7}Summary and concluding remarks}{81}{chapter.7}
+\contentsline {chapter}{\numberline {A}Classical expression for fusion cross section and the Wong formula}{86}{appendix.A}
+\contentsline {chapter}{\numberline {B}Role of noncollective excitations in one-dimensional barrier penetration problem}{90}{appendix.B}
+\contentsline {section}{\numberline {B.1}Random matrix model for one-dimensional coupled-channels equations}{90}{section.B.1}
+\contentsline {section}{\numberline {B.2}Results}{91}{section.B.2}
+\contentsline {chapter}{\numberline {C}Calculation of gaussian orthogonal ensemble(GOE)}{95}{appendix.C}
+\contentsline {chapter}{\numberline {D}Interplay of collective and noncollective excitations}{97}{appendix.D}
