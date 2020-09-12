@@ -120,7 +120,7 @@ $^{24}$Mg + $^{90,92}$Zr systems.
 [2] [S. Yusa, K. Hagino, N. Rowley, Phys. Rev. C {\bf 85}, 054601(2012)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.054601).
 
 ## Links
-* [Tohoku University Repository（TOUR）](https://tohoku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=70405&item_no=1&page_id=33&block_id=38)
+* [Tohoku University Repository（TOUR）](http://hdl.handle.net/10097/55603)
 * [S. Yusa, K. Hagino, and N. Rowley Phys. Rev. C 88, 044620(2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.044620)
 * [S. Yusa, K. Hagino, and N. Rowley Phys. Rev. C 88, 054621(2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.054621)
 
